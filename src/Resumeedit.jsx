@@ -207,7 +207,80 @@ export default function Resumeedit() {
               </div>
             </div>
           </div>
-          <div>3</div>
+          <div className="col-span-3 px-40 ">
+            <div className=" container mx-auto">
+              <p className=" font-bold mb-10 text-blue-500">* Post Graduation Education Details</p>
+              <div className="relative z-0 mb-6 w-full group">
+                <input
+                  type="text"
+                  name="floating_first_name"
+                  id="floating_first_name"
+                  className="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  htmlFor="floating_first_name"
+                  className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                >
+                  Course Name
+                </label>
+              </div>
+              <div className="relative z-0 mb-6 w-full group">
+                <input
+                  type="text"
+                  name="floating_first_name"
+                  id="floating_first_name"
+                  className="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  htmlFor="floating_first_name"
+                  className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                >
+                  College Name With Year
+                </label>
+              </div>
+            </div>
+          </div>
+          <div className="col-span-3 px-40 ">
+            <div className=" container mx-auto">
+              <p className=" font-bold mb-10 text-blue-500">* Bachelor Graduation Education Details</p>
+              <div className="relative z-0 mb-6 w-full group">
+                <input
+                  type="text"
+                  name="floating_first_name"
+                  id="floating_first_name"
+                  className="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  htmlFor="floating_first_name"
+                  className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                >
+                  Course Name
+                </label>
+              </div>
+              <div className=" relative z-0 mb-6 w-full group">
+                <input
+                  type="text"
+                  name="floating_first_name"
+                  id="floating_first_name"
+                  className="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  htmlFor="floating_first_name"
+                  className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                >
+                  College Name With Year
+                </label>
+              </div>
+            </div>
+          </div>
           <div>4</div>
           <div>5</div>
           <div>6</div>
