@@ -44,7 +44,7 @@ export default function Dfrom() {
         })}
            <button onClick={addFields}>Add More..</button>
            <button onClick={submit}>Submit</button>
-  
+  <p>Hello palani</p>
       </form>
     </div>
   )
